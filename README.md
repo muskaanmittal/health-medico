@@ -24,7 +24,7 @@
 # Work Flow
 1. Install python with any ide like pycharm, spyder, vs code etc.
 
-2. Download this project
+2. Download this project file named health-medico.zip
 
 3. Make sure also you have mysql with server(php myadmin) installed like wampp, xammp etc for data base.
 
