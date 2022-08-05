@@ -34,7 +34,7 @@
 
 6. Open your ide and open the downloaded project folder 
 
-7. Now run the app.py file
+7. Now run the main_app.py file
 
 8. In the compiler you will get the message like this. If not you have error in the code
 
@@ -47,7 +47,7 @@ Restarting with stat Debugger is active! Debugger PIN: 716-674-243 Running on ht
 11. See the database doctor table to know about doctor credentials
 
 
-demo video: https://www.youtube.com/watch?v=3G9Op0ckTi0
 
-cloud deployement : https://virtual-medical12.herokuapp.com/  (you can view this project website by clicking this link) note : login credentials is same given in medico.sql file
+
+
 
